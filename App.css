@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.desktop-1
+  {
+   height: 1024px;
+   width: 1440px;
+   background-color: #ffffff;
+  }
+  .img-1
+  {
+   height: 1177px;
+   width: 1763px;
+  }
+  .rectangle-1-7
+  {
+   border-radius: 20px;
+   height: 466px;
+   width: 423px;
+   background-color: rgba(217, 217, 217, 0.800000011920929);
+  }
+  .text-2
+  {
+   text-align: center;
+   vertical-align: top;
+   font-size: 48px;
+   font-family: IM FELL French Canon SC;
+   line-height: auto;
+   color: #000000;
+  }
+  .rectangle-3-0 
+  {
+   border-radius: 10px;
+   height: 51px;
+   width: 307px;
+   background-color: #fff7fe;
+  }
+  .text-3
+  {
+   text-align: center;
+   vertical-align: top;
+   font-size: 32px;
+   font-family: IM FELL French Canon SC;
+   line-height: auto;
+   color: #b7b1b1;
+  }
+  .text-4
+  {
+   text-align: center;
+   vertical-align: top;
+   font-size: 32px;
+   font-family: IM FELL French Canon SC;
+   line-height: auto;
+   color: #b7b1b1;
+  }
+  .rectangle-3-3 
+  {
+   border-radius: 10px;
+   height: 40px;
+   width: 163px;
+   background-color: #fff8ff;
+  }
+  .text-5 
+  {
+   text-align: center;
+   vertical-align: top;
+   font-size: 32px;
+   font-family: IM FELL French Canon SC;
+   line-height: auto;
+   color: #000000;
+  }
+  .text-6
+  {
+   text-align: center;
+   vertical-align: top;
+   font-size: 20px;
+   font-family: Inika;
+   line-height: auto;
+   color: #6f6767;
+  }
+  .line-1 
+  {
+   transform: rotate(0deg);
+   height: 0px;
+   width: 314px;
+   border: 1px solid #000000;
+  }
+  .text-7 
+  {
+   text-align: left;
+   vertical-align: top;
+   font-size: 50px;
+   font-family: Marcellus;
+   line-height: auto;
+   color: #000000;
+  }
+  
+  
+  
+ 
